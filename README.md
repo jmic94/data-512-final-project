@@ -2,7 +2,7 @@
 DATA512 Final Project
 
 # Goal
-Estimate the smoke impact of wildfires on the city of Texarkana, TX.
+Estimate the impact of wildfires on the housing market of the city of Texarkana, TX.
 
 # Data Sources
 - [USGS Wildfire data](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81)
@@ -80,7 +80,7 @@ Estimate the smoke impact of wildfires on the city of Texarkana, TX.
 - [distance_histogram.png](https://github.com/jmic94/data-512-final-project/blob/main/output/distance_histogram.png) is a chart showing the distribution of wildfire proximity to Texarkana, TX from 1963 to 2020.
 - [est_vs_aqi.png](https://github.com/jmic94/data-512-final-project/blob/main/output/est_vs_aqi.png) is a chart comparing the annual smoke estimate and the annual fire season AQI from 1999 to 2020.
 - [res_vs_fitted.png](https://github.com/jmic94/data-512-final-project/blob/main/output/res_vs_fitted.png) is a chart showing the residuals versus fitted values plot of the regression model.
-- [data512_final_report.pdf](https://github.com/jmic94/data512-common-analysis/blob/main/write_up.pdf) is a document with detailed descriptions of the first three charts above and a reflection statement.
+- [data512_final_report.pdf](https://github.com/jmic94/data-512-final-project/blob/main/data512_final_report.pdf) is the final report of the analysis.
 
 # Data Issues
 - The AQI data can be sparse for older decades. I've found that the monitoring stations in Texerkana, TX begin having reliable data starting in the year 1999.
